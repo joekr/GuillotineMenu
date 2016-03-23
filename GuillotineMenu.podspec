@@ -12,7 +12,7 @@ Pod::Spec.new do |spec|
   spec.platform = :ios, '8.0'
   spec.ios.deployment_target = '8.0'
 
-  spec.source = { :git => "https://github.com/Yalantis/GuillotineMenu.git", :tag => "2.0.2" }
+  spec.source = { :git => "https://github.com/joekr/GuillotineMenu.git", :tag => "2.0.2" }
 
   spec.requires_arc = true
 
